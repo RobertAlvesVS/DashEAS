@@ -1,0 +1,328 @@
+{
+    "Informações do relatório": [
+        {
+            "Fila:": "'marcacao','telefonista'"
+        },
+        {
+            "Data inicial:": "01/09/2024"
+        },
+        {
+            "Data final:": "30/09/2024"
+        },
+        {
+            "Período:": "30 dias"
+        }
+    ],
+    "Visão Geral": [
+        {
+            "Total de ligações recebidas:": "13967 chamadas"
+        },
+        {
+            "Número de chamadas atendidas:": "12462 chamadas"
+        },
+        {
+            "Número de chamadas perdidas:": "1505 chamadas"
+        },
+        {
+            "Ligações recuperadas perdidas:": "889 chamadas"
+        },
+        {
+            "Percentual de Perda:": "10.78 %"
+        },
+        {
+            "TMA das chamadas recebidas:": "00:01:44"
+        },
+        {
+            "TME das chamadas recebidas:": "00:00:17"
+        },
+        {
+            "Qt. de ligações não atendidos fora do horário:": "858 chamadas"
+        },
+        {
+            "Ligações recuperadas fora do horário:": "858 chamadas"
+        },
+        {
+            "Total de chamadas realizadas:": "414 chamadas"
+        },
+        {
+            "TMA das chamadas realizadas:": "00:01:12"
+        },
+        {
+            "Agente não atendeu nos primeiros toques:": "226 chamadas"
+        },
+        {
+            "Chamadas transferidas diretas:": "152 chamadas"
+        },
+        {
+            "Chamadas transferidas com consulta:": "752 chamadas"
+        },
+        {
+            "Total geral de pausas:": 743
+        },
+        {
+            "Total tempo das pausas:": "103h 2m 11s"
+        },
+        {
+            "Total de classificação:": 2592
+        },
+        {
+            "Total de Pesquisa de Satisfação Agente:": 923
+        },
+        {
+            "Total de Pesquisa de Satisfação URA:": 583
+        },
+        {
+            "Total geral de acesso:": 386
+        },
+        {
+            "Tempo total de acesso:": "838h 59m 59s"
+        }
+    ],
+    "Agentes": [
+        {
+            "Agente": "Cristina Leal",
+            "Qt.Acesso": 95,
+            "Tempo Total de Acesso": "133h 11m 52s",
+            "%Tempo Total de Acesso": "15.88 %",
+            "Chamadas Atendidas": 1258,
+            "%Chamadas Atendidas": "10.09 %",
+            "Tempo de atendimento das Atendidas": "43h 1m 27s",
+            "%Tempo de atendimento das Atendidas": "11.97 %",
+            "TMA das Atendidas": "00:02:03",
+            "Tempo de espera das Atendidas": "07:14:00",
+            "%Tempo de espera das Atendidas": "12.38 %",
+            "TME das Atendidas": "00:00:21",
+            "Chamadas Realizadas": 264,
+            "%Chamadas Realizadas": 0.64,
+            "Tempo das Chamadas Realizadas": "04:59:54",
+            "%Tempo das Chamadas Realizadas": 0.61,
+            "Tempo médio das chamadas Realizadas": "00:01:08",
+            "Qt. de Pausas": 47,
+            "Tempo Total de Pausas": "05:13:25",
+            "%Tempo Total de Pausas": "5.07 %",
+            "Qt. de Classificação": 551,
+            "%Classificação": 0.21,
+            "Qt. de Notas": 69,
+            "Média de Notas": "9.23"
+        },
+        {
+            "Agente": "Daniela",
+            "Qt.Acesso": 30,
+            "Tempo Total de Acesso": "134h 31m 22s",
+            "%Tempo Total de Acesso": "16.03 %",
+            "Chamadas Atendidas": 1331,
+            "%Chamadas Atendidas": "10.68 %",
+            "Tempo de atendimento das Atendidas": "47h 55m 52s",
+            "%Tempo de atendimento das Atendidas": "13.34 %",
+            "TMA das Atendidas": "00:02:10",
+            "Tempo de espera das Atendidas": "03:31:46",
+            "%Tempo de espera das Atendidas": "6.04 %",
+            "TME das Atendidas": "00:00:10",
+            "Chamadas Realizadas": 28,
+            "%Chamadas Realizadas": 0.07,
+            "Tempo das Chamadas Realizadas": "00:58:21",
+            "%Tempo das Chamadas Realizadas": 0.12,
+            "Tempo médio das chamadas Realizadas": "00:02:05",
+            "Qt. de Pausas": 80,
+            "Tempo Total de Pausas": "14:33:38",
+            "%Tempo Total de Pausas": "14.13 %",
+            "Qt. de Classificação": 357,
+            "%Classificação": 0.14,
+            "Qt. de Notas": 34,
+            "Média de Notas": "8.62"
+        },
+        {
+            "Agente": "Fernanda Queiroz",
+            "Qt.Acesso": 35,
+            "Tempo Total de Acesso": "125h 51m 56s",
+            "%Tempo Total de Acesso": "15.00 %",
+            "Chamadas Atendidas": 1301,
+            "%Chamadas Atendidas": "10.44 %",
+            "Tempo de atendimento das Atendidas": "44h 40m 11s",
+            "%Tempo de atendimento das Atendidas": "12.43 %",
+            "TMA das Atendidas": "00:02:04",
+            "Tempo de espera das Atendidas": "08:19:17",
+            "%Tempo de espera das Atendidas": "14.24 %",
+            "TME das Atendidas": "00:00:23",
+            "Chamadas Realizadas": 6,
+            "%Chamadas Realizadas": 0.01,
+            "Tempo das Chamadas Realizadas": "00:04:11",
+            "%Tempo das Chamadas Realizadas": 0.01,
+            "Tempo médio das chamadas Realizadas": "00:00:42",
+            "Qt. de Pausas": 108,
+            "Tempo Total de Pausas": "12:21:58",
+            "%Tempo Total de Pausas": "12.00 %",
+            "Qt. de Classificação": 1,
+            "%Classificação": 0,
+            "Qt. de Notas": 45,
+            "Média de Notas": "7.53"
+        },
+        {
+            "Agente": "Fernanda Reis",
+            "Qt.Acesso": 51,
+            "Tempo Total de Acesso": "126h 1m 48s",
+            "%Tempo Total de Acesso": "15.02 %",
+            "Chamadas Atendidas": 1290,
+            "%Chamadas Atendidas": "10.35 %",
+            "Tempo de atendimento das Atendidas": "49h 30m 13s",
+            "%Tempo de atendimento das Atendidas": "13.77 %",
+            "TMA das Atendidas": "00:02:18",
+            "Tempo de espera das Atendidas": "10:05:08",
+            "%Tempo de espera das Atendidas": "17.26 %",
+            "TME das Atendidas": "00:00:28",
+            "Chamadas Realizadas": 26,
+            "%Chamadas Realizadas": 0.06,
+            "Tempo das Chamadas Realizadas": "00:21:56",
+            "%Tempo das Chamadas Realizadas": 0.04,
+            "Tempo médio das chamadas Realizadas": "00:00:51",
+            "Qt. de Pausas": 89,
+            "Tempo Total de Pausas": "10:15:13",
+            "%Tempo Total de Pausas": "9.95 %",
+            "Qt. de Classificação": 597,
+            "%Classificação": 0.23,
+            "Qt. de Notas": 89,
+            "Média de Notas": "8.78"
+        },
+        {
+            "Agente": "Jurema",
+            "Qt.Acesso": 26,
+            "Tempo Total de Acesso": "97h 17m 6s",
+            "%Tempo Total de Acesso": "11.60 %",
+            "Chamadas Atendidas": 878,
+            "%Chamadas Atendidas": "7.05 %",
+            "Tempo de atendimento das Atendidas": "33h 56m 20s",
+            "%Tempo de atendimento das Atendidas": "9.44 %",
+            "TMA das Atendidas": "00:02:19",
+            "Tempo de espera das Atendidas": "02:01:19",
+            "%Tempo de espera das Atendidas": "3.46 %",
+            "TME das Atendidas": "00:00:08",
+            "Chamadas Realizadas": 25,
+            "%Chamadas Realizadas": 0.06,
+            "Tempo das Chamadas Realizadas": "00:48:40",
+            "%Tempo das Chamadas Realizadas": 0.1,
+            "Tempo médio das chamadas Realizadas": "00:01:57",
+            "Qt. de Pausas": 56,
+            "Tempo Total de Pausas": "08:42:24",
+            "%Tempo Total de Pausas": "8.45 %",
+            "Qt. de Classificação": 6,
+            "%Classificação": 0,
+            "Qt. de Notas": 32,
+            "Média de Notas": "7.34"
+        },
+        {
+            "Agente": "Laise",
+            "Qt.Acesso": 33,
+            "Tempo Total de Acesso": "133h 53m 48s",
+            "%Tempo Total de Acesso": "15.96 %",
+            "Chamadas Atendidas": 1684,
+            "%Chamadas Atendidas": "13.51 %",
+            "Tempo de atendimento das Atendidas": "34h 8m 47s",
+            "%Tempo de atendimento das Atendidas": "9.50 %",
+            "TMA das Atendidas": "00:01:13",
+            "Tempo de espera das Atendidas": "03:41:31",
+            "%Tempo de espera das Atendidas": "6.32 %",
+            "TME das Atendidas": "00:00:08",
+            "Chamadas Realizadas": 11,
+            "%Chamadas Realizadas": 0.03,
+            "Tempo das Chamadas Realizadas": "00:12:51",
+            "%Tempo das Chamadas Realizadas": 0.03,
+            "Tempo médio das chamadas Realizadas": "00:01:10",
+            "Qt. de Pausas": 121,
+            "Tempo Total de Pausas": "17:00:45",
+            "%Tempo Total de Pausas": "16.51 %",
+            "Qt. de Classificação": 688,
+            "%Classificação": 0.27,
+            "Qt. de Notas": 254,
+            "Média de Notas": "5.91"
+        },
+        {
+            "Agente": "laura",
+            "Qt.Acesso": 35,
+            "Tempo Total de Acesso": "105h 48m 30s",
+            "%Tempo Total de Acesso": "12.61 %",
+            "Chamadas Atendidas": 1517,
+            "%Chamadas Atendidas": "12.17 %",
+            "Tempo de atendimento das Atendidas": "23:01:54",
+            "%Tempo de atendimento das Atendidas": "6.41 %",
+            "TMA das Atendidas": "00:00:55",
+            "Tempo de espera das Atendidas": "09:51:28",
+            "%Tempo de espera das Atendidas": "16.87 %",
+            "TME das Atendidas": "00:00:23",
+            "Chamadas Realizadas": 6,
+            "%Chamadas Realizadas": 0.01,
+            "Tempo das Chamadas Realizadas": "00:01:58",
+            "%Tempo das Chamadas Realizadas": 0,
+            "Tempo médio das chamadas Realizadas": "00:00:20",
+            "Qt. de Pausas": 69,
+            "Tempo Total de Pausas": "10:50:01",
+            "%Tempo Total de Pausas": "10.51 %",
+            "Qt. de Classificação": 14,
+            "%Classificação": 0.01,
+            "Qt. de Notas": 219,
+            "Média de Notas": "3.56"
+        },
+        {
+            "Agente": "lorena",
+            "Qt.Acesso": 51,
+            "Tempo Total de Acesso": "117h 53m 53s",
+            "%Tempo Total de Acesso": "14.05 %",
+            "Chamadas Atendidas": 1224,
+            "%Chamadas Atendidas": "9.82 %",
+            "Tempo de atendimento das Atendidas": "39h 40m 48s",
+            "%Tempo de atendimento das Atendidas": "11.04 %",
+            "TMA das Atendidas": "00:01:57",
+            "Tempo de espera das Atendidas": "02:30:17",
+            "%Tempo de espera das Atendidas": "4.29 %",
+            "TME das Atendidas": "00:00:07",
+            "Chamadas Realizadas": 38,
+            "%Chamadas Realizadas": 0.09,
+            "Tempo das Chamadas Realizadas": "00:40:02",
+            "%Tempo das Chamadas Realizadas": 0.08,
+            "Tempo médio das chamadas Realizadas": "00:01:03",
+            "Qt. de Pausas": 100,
+            "Tempo Total de Pausas": "13:58:31",
+            "%Tempo Total de Pausas": "13.56 %",
+            "Qt. de Classificação": 291,
+            "%Classificação": 0.11,
+            "Qt. de Notas": 30,
+            "Média de Notas": "8.50"
+        },
+        {
+            "Agente": "Mercia",
+            "Qt.Acesso": 30,
+            "Tempo Total de Acesso": "108h 21m 2s",
+            "%Tempo Total de Acesso": "12.91 %",
+            "Chamadas Atendidas": 1438,
+            "%Chamadas Atendidas": "11.54 %",
+            "Tempo de atendimento das Atendidas": "28h 47m 6s",
+            "%Tempo de atendimento das Atendidas": "8.01 %",
+            "TMA das Atendidas": "00:01:12",
+            "Tempo de espera das Atendidas": "05:46:17",
+            "%Tempo de espera das Atendidas": "9.88 %",
+            "TME das Atendidas": "00:00:14",
+            "Chamadas Realizadas": 10,
+            "%Chamadas Realizadas": 0.02,
+            "Tempo das Chamadas Realizadas": "00:06:38",
+            "%Tempo das Chamadas Realizadas": 0.01,
+            "Tempo médio das chamadas Realizadas": "00:00:40",
+            "Qt. de Pausas": 73,
+            "Tempo Total de Pausas": "10:06:16",
+            "%Tempo Total de Pausas": "9.81 %",
+            "Qt. de Classificação": 87,
+            "%Classificação": 0.03,
+            "Qt. de Notas": 151,
+            "Média de Notas": "4.83"
+        },
+        {
+            "Agente": "SIP/1207",
+            "Chamadas Atendidas": 541,
+            "%Chamadas Atendidas": "4.34 %",
+            "Tempo de atendimento das Atendidas": "14:40:23",
+            "%Tempo de atendimento das Atendidas": "4.08 %",
+            "TMA das Atendidas": "00:01:38",
+            "Tempo de espera das Atendidas": "05:24:23",
+            "%Tempo de espera das Atendidas": "9.25 %",
+            "TME das Atendidas": "00:00:36"
+        }
+    ]
+}
